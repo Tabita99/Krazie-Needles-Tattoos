@@ -85,3 +85,23 @@ img {
   padding-left: 15px;
   margin-top: 15px;
 }
+/* 
+piercing heading
+ */
+
+.piercings-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+/*
+Price list  
+ */
+
+.price-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
