@@ -49,3 +49,18 @@ homepage video
   width: 100%;
   height: 100%;
 }
+
+/* about us */
+
+.about-us {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 20px;
+}
+
+img {
+  width: 100%;
+}
