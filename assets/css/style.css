@@ -1,9 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=UnifrakturMaguntia&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
+/* logo */
+
+.logo-container .brand-name {
+  font-family: "UnifrakturMaguntia", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 15px;
+}
 /* navbar */
 
 #navbarNav {
