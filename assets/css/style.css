@@ -101,7 +101,8 @@ Price list
  */
 
 .price-list,
-.pricing {
+.pricing,
+.after-care {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -123,6 +124,7 @@ Price list
   height: 50rem;
 }
 
-.pricing-row {
+.pricing-row,
+.aftercare-row {
   margin-bottom: 30px;
 }
