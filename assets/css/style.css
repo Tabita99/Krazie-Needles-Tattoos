@@ -64,3 +64,24 @@ homepage video
 img {
   width: 100%;
 }
+
+/* carousel */
+.carousel-item {
+  height: 25rem;
+  background-color: aqua;
+}
+.card {
+  background-color: black;
+}
+
+.image-colum {
+  display: flex;
+  float: left;
+}
+
+.image-style {
+  height: 23rem;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-top: 15px;
+}
