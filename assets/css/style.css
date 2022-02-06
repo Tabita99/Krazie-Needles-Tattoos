@@ -79,6 +79,7 @@ img {
 .carousel-item {
   height: 25rem;
   background-color: grey;
+  width: 100%;
 }
 .card {
   background-color: black;
@@ -157,11 +158,25 @@ Price list
   margin-bottom: 30px;
 }
 
+/* media queries */
 @media only screen and (max-width: 600px) {
   .nav-item {
     font-size: large;
   }
   img {
     margin-top: 20px;
+  }
+
+  /* carousel  image style change to make all image spaced the same  */
+
+  .image-style {
+    height: 100%;
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+
+  .image-style1 {
+    height: 30rem;
+    margin: 0;
   }
 }
