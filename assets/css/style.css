@@ -132,6 +132,8 @@ Price list
 .price-list,
 .pricing,
 .after-care {
+  font-family: "Martel", sans-serif;
+  color: rgb(68, 67, 67);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -156,6 +158,24 @@ Price list
   justify-content: center;
 }
 
+/* tattoos page  */
+
+.title {
+  font-family: "Martel", sans-serif;
+  color: rgb(68, 67, 67);
+  text-align: center;
+  margin: 15px;
+  text-decoration: underline;
+  font-size: x-large;
+}
+
+.pricing-row {
+  display: flex;
+  font-family: "Martel", sans-serif;
+  color: rgb(68, 67, 67);
+  text-align: justify;
+  margin: 30px;
+}
 /* media queries */
 @media only screen and (max-width: 600px) {
   .nav-item {
