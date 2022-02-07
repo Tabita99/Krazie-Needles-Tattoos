@@ -131,7 +131,7 @@ Price list
 
 .price-list,
 .pricing,
-.after-care {
+.aftercare-row {
   font-family: "Martel", sans-serif;
   color: rgb(68, 67, 67);
   display: flex;
@@ -169,7 +169,8 @@ Price list
   font-size: x-large;
 }
 
-.pricing-row {
+.pricing-row,
+.aftercare-body {
   display: flex;
   font-family: "Martel", sans-serif;
   color: rgb(68, 67, 67);
