@@ -137,9 +137,23 @@ Price list
   align-items: center;
   margin: 40px;
 }
-
+/* price list cards */
 .card {
   background-color: inherit;
+  margin-bottom: 20px;
+}
+
+.card-body {
+  font-family: "Martel", sans-serif;
+  color: rgb(68, 67, 67);
+  text-align: center;
+}
+.card-header {
+  font-family: "Martel", sans-serif;
+  color: rgb(68, 67, 67);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* media queries */
