@@ -209,8 +209,8 @@ Price list
 }
 
 .border.border-secondary {
-  height: 14.75rem;
   margin: 15px;
+  padding: 10px;
 }
 
 .row.form-row {
