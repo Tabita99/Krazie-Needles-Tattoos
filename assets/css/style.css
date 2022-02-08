@@ -11,6 +11,7 @@ body {
 
 .logo-container .brand-name {
   font-family: "UnifrakturMaguntia", sans-serif;
+  font-size: 4rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -254,5 +255,8 @@ Price list
   .image-style3 {
     height: 100%;
     margin: 10px;
+  }
+  .logo-container .brand-name {
+    display: none;
   }
 }
