@@ -39,6 +39,10 @@ body {
 .nav-item {
   font-family: "Martel", sans-serif;
   font-size: xx-large;
+  color: rgb(68, 67, 67);
+}
+hr {
+  margin: auto;
 }
 
 /* 
@@ -69,6 +73,7 @@ homepage video
   font-family: "Martel", sans-serif;
   color: rgb(68, 67, 67);
   text-align: justify;
+  margin: 20px;
 }
 
 img {
