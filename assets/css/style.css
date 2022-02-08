@@ -78,7 +78,6 @@ img {
 /* carousel */
 .carousel-item {
   height: 25rem;
-  background-color: grey;
   width: 100%;
 }
 .card {
@@ -92,15 +91,14 @@ img {
 
 .image-style {
   height: 23rem;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
   margin-top: 15px;
 }
-/* carousel  image style change to make all image spaced the same  */
-.image-style1 {
+
+.image-style3 {
   height: 23rem;
-  padding-left: 15px;
-  padding-right: 5px;
+  margin-left: 10px;
   margin-top: 15px;
 }
 
@@ -108,12 +106,15 @@ img {
   height: 23rem;
   margin-top: 15px;
 }
-.image-style3 {
+
+.image-style1 {
   height: 23rem;
-  padding-right: 10px;
-  padding-left: 5px;
   margin-top: 15px;
+  padding-right: 3px;
 }
+
+/* carousel  image style change to make all image spaced the same  */
+
 /* 
 piercing heading
  */
@@ -243,14 +244,10 @@ Price list
 
   /* carousel  image style change to make all image spaced the same  */
 
-  .image-style {
+  .image-style,
+  .image-style2,
+  .image-style3 {
     height: 100%;
-    margin-top: 10px;
-    margin-left: 30px;
-  }
-
-  .image-style1 {
-    height: 30rem;
-    margin: 0;
+    margin: 10px;
   }
 }
